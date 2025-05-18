@@ -1,3 +1,8 @@
+# What this will do: 
+
+
+
+
 #https://docs.python.org/3/tutorial/venv.html
 #In powershell als admin:
 #get-ExecutionPolicy
